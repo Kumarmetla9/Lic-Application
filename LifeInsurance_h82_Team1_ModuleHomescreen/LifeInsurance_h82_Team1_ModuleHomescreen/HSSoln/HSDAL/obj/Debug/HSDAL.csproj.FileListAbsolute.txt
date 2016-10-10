@@ -1,0 +1,14 @@
+C:\Users\758006\Desktop\LifeInsurance_h82_Team1_ModuleHomescreen\HSSoln\HSDAL\obj\Debug\HSDAL.csprojResolveAssemblyReference.cache
+C:\Users\758006\Desktop\LifeInsurance_h82_Team1_ModuleHomescreen\HSSoln\HSDAL\bin\Debug\HSDAL.dll
+C:\Users\758006\Desktop\LifeInsurance_h82_Team1_ModuleHomescreen\HSSoln\HSDAL\bin\Debug\HSDAL.pdb
+C:\Users\758006\Desktop\LifeInsurance_h82_Team1_ModuleHomescreen\HSSoln\HSDAL\bin\Debug\HSDC.dll
+C:\Users\758006\Desktop\LifeInsurance_h82_Team1_ModuleHomescreen\HSSoln\HSDAL\bin\Debug\HSDC.pdb
+C:\Users\758006\Desktop\LifeInsurance_h82_Team1_ModuleHomescreen\HSSoln\HSDAL\obj\Debug\HSDAL.dll
+C:\Users\758006\Desktop\LifeInsurance_h82_Team1_ModuleHomescreen\HSSoln\HSDAL\obj\Debug\HSDAL.pdb
+C:\Users\758006\Desktop\LifeInsurance_h82_Team1_ModuleHomescreen\LifeInsurance_h82_Team1_ModuleHomescreen\HSSoln\HSDAL\obj\Debug\HSDAL.csprojResolveAssemblyReference.cache
+C:\Users\758006\Desktop\LifeInsurance_h82_Team1_ModuleHomescreen\LifeInsurance_h82_Team1_ModuleHomescreen\HSSoln\HSDAL\obj\Debug\HSDAL.dll
+C:\Users\758006\Desktop\LifeInsurance_h82_Team1_ModuleHomescreen\LifeInsurance_h82_Team1_ModuleHomescreen\HSSoln\HSDAL\bin\Debug\HSDAL.dll
+C:\Users\758006\Desktop\LifeInsurance_h82_Team1_ModuleHomescreen\LifeInsurance_h82_Team1_ModuleHomescreen\HSSoln\HSDAL\bin\Debug\HSDAL.pdb
+C:\Users\758006\Desktop\LifeInsurance_h82_Team1_ModuleHomescreen\LifeInsurance_h82_Team1_ModuleHomescreen\HSSoln\HSDAL\bin\Debug\HSDC.dll
+C:\Users\758006\Desktop\LifeInsurance_h82_Team1_ModuleHomescreen\LifeInsurance_h82_Team1_ModuleHomescreen\HSSoln\HSDAL\bin\Debug\HSDC.pdb
+C:\Users\758006\Desktop\LifeInsurance_h82_Team1_ModuleHomescreen\LifeInsurance_h82_Team1_ModuleHomescreen\HSSoln\HSDAL\obj\Debug\HSDAL.pdb

@@ -1,0 +1,95 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="HS.master.cs" Inherits="HS" %>
+<%@ Register TagPrefix="test" TagName="Data" Src="Agent.aspx" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+   
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+
+        .newStyle1 {
+            font-family: Georgia;
+            font-size: xx-large;
+            font-style: italic;
+            color: #3333CC;
+            text-decoration: blink;
+            background-image: none;
+            float: left;
+            width: 1248px;
+        }
+
+        .auto-style3 {
+            color: #66FFFF;
+            background-color: #800000;
+            text-align: right;
+        }
+
+        .newStyle2 {
+            font-size: xx-large;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+
+            <table class="auto-style1">
+                <tr>
+                    <td id="head1" height="100px" align="center" class="auto-style3"><span class="newStyle2">Life Insurance Quote System</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+                        <asp:Label ID="lblun" runat="server" style="text-align: right"></asp:Label>
+                    </td>
+                   
+                
+                </tr>
+                <tr>
+                    <td>
+                        <asp:Menu ID="Menu1" runat="server" align="center" BackColor="#00FFCC" BorderColor="Maroon" BorderStyle="Double" ForeColor="#6600CC" Orientation="Horizontal" RenderingMode="Table" Width="109px" BorderWidth="10px" Style="background-color: #FFFFFF">
+                            <DynamicMenuStyle HorizontalPadding="30px" />
+                            <Items>
+                                <asp:MenuItem NavigateUrl="~/Home.aspx" Text="Home" Value="Home"></asp:MenuItem>
+                                <asp:MenuItem Text="About US" Value="About US"></asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/Register.aspx" Text="Register" Value="Register"></asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/Login.aspx" Text="Login" Value="Login">
+                                    <asp:MenuItem NavigateUrl="~/User.aspx" Text="User Login" Value="User Login"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/Agent.aspx" Text="Agent Login" Value="Agent Login"></asp:MenuItem>
+                                </asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/Contact Us.aspx" Text="Contact Us" Value="Contact Us"></asp:MenuItem>
+                                <asp:MenuItem Text="FAQs" Value="FAQs"></asp:MenuItem>
+                                <asp:MenuItem Text="Testimonials" Value="Testimonials"></asp:MenuItem>
+                            </Items>
+                            <StaticHoverStyle BorderColor="#FF9999" BorderStyle="Solid" BorderWidth="2px" ForeColor="#99CCFF" Width="10px" />
+                            <StaticMenuItemStyle HorizontalPadding="100px" BorderStyle="None" BorderWidth="20px" ForeColor="#6666FF" Height="40px" />
+                            <StaticMenuStyle BackColor="#CC0000" BorderColor="#FF6666" BorderStyle="None" Height="40px" />
+                            <StaticSelectedStyle BackColor="#66FFFF" ItemSpacing="10px" />
+                            <StaticItemTemplate>
+                              
+                            </StaticItemTemplate>
+                        </asp:Menu>
+                    </td>
+                </tr>
+            </table>
+        </div>
+   
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+
+    </div>
+     </form>
+   
+
+   
+  
+        
+    
+   
+</body>
+
+</html>

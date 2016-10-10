@@ -1,0 +1,9 @@
+C:\Users\758006\Desktop\LifeInsurance_h82_Team1_ModuleHomescreen\HSSoln\HSDC\bin\Debug\HSDC.dll
+C:\Users\758006\Desktop\LifeInsurance_h82_Team1_ModuleHomescreen\HSSoln\HSDC\bin\Debug\HSDC.pdb
+C:\Users\758006\Desktop\LifeInsurance_h82_Team1_ModuleHomescreen\HSSoln\HSDC\obj\Debug\HSDC.csprojResolveAssemblyReference.cache
+C:\Users\758006\Desktop\LifeInsurance_h82_Team1_ModuleHomescreen\HSSoln\HSDC\obj\Debug\HSDC.dll
+C:\Users\758006\Desktop\LifeInsurance_h82_Team1_ModuleHomescreen\HSSoln\HSDC\obj\Debug\HSDC.pdb
+C:\Users\758006\Desktop\LifeInsurance_h82_Team1_ModuleHomescreen\LifeInsurance_h82_Team1_ModuleHomescreen\HSSoln\HSDC\bin\Debug\HSDC.dll
+C:\Users\758006\Desktop\LifeInsurance_h82_Team1_ModuleHomescreen\LifeInsurance_h82_Team1_ModuleHomescreen\HSSoln\HSDC\bin\Debug\HSDC.pdb
+C:\Users\758006\Desktop\LifeInsurance_h82_Team1_ModuleHomescreen\LifeInsurance_h82_Team1_ModuleHomescreen\HSSoln\HSDC\obj\Debug\HSDC.dll
+C:\Users\758006\Desktop\LifeInsurance_h82_Team1_ModuleHomescreen\LifeInsurance_h82_Team1_ModuleHomescreen\HSSoln\HSDC\obj\Debug\HSDC.pdb

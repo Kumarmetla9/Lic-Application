@@ -1,0 +1,14 @@
+﻿#head1 {
+        font-family:Georgia;
+        font-size:x-large;
+         text-decoration-color:aqua;
+         background-color:maroon;
+         
+       text-align:center; 
+       vertical-align:middle;
+}
+.menu
+{
+    width: 20%;
+    background-color: #CCFFFF;
+}
